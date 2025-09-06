@@ -1,0 +1,9 @@
+title: KH2 - Archipelago Enablers
+originalAuthor: TopazTK
+description: A set of functions to let Archipelago players do more.
+
+assets: 
+- name: dll/EnablersAP-FULL.dll
+  method: copy
+  source:
+    - name: dll/EnablersAP-FULL.dll
