@@ -1,6 +1,6 @@
 title: KH2 - Archipelago Enablers
 originalAuthor: TopazTK
-description: A set of functions to let Archipelago players do more. NOTE: You must disable all Soft Reset and Autosave mods to use this. If you prefer using THOSE mods, please get "TopazTK/KH2-ArchipelagoEnablersLITE".
+description: A set of functions to let Archipelago players do more. NOTE: You must disable all Soft Reset and Autosave mods to use this. If you prefer using THOSE mods, please get TopazTK/KH2-ArchipelagoEnablersLITE instead.
 
 assets: 
 - name: dll/EnablersAP-FULL.dll
