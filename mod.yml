@@ -7,3 +7,51 @@ assets:
   method: copy
   source:
     - name: dll/EnablersAP-FULL.dll
+    
+# === Text Files === #
+
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: textfiles/sys.yml
+      language: en
+- name: msg/fr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: textfiles/sys.yml
+      language: fr
+- name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: textfiles/sys.yml
+      language: sp
+- name: msg/it/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: textfiles/sys.yml
+      language: it
+- name: msg/gr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: textfiles/sys.yml
+      language: gr
